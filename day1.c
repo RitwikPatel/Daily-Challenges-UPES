@@ -11,8 +11,3 @@ int main() {
 
 return 0;
 }
-
-//sample input
-// 3 4 = 7
-
-//-1 20 = 19
